@@ -259,7 +259,7 @@ While Seurat adjusts the underlying high-dimensional data in order to correct
 for differences between the groups,
 [harmony](https://github.com/immunogenomics/harmony) (developed by the
 [Raychaudhuri lab](https://immunogenomics.hms.harvard.edu/)) adjusts the
-low-dimensional cell embeddings to to reduce the dependence between cluster
+low-dimensional cell embeddings to reduce the dependence between cluster
 assignment and dataset of origin. You can read more about Harmony
 [here](https://doi.org/10.1101/461954).
 
